@@ -2,7 +2,6 @@
 
 import json
 import sys
-import time
 import os
 import requests
 from socket import socket, AF_UNIX, SOCK_DGRAM
